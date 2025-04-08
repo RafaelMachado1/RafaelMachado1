@@ -7,7 +7,7 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMachado1&show_icons=true&theme=gruvbox)
 
-### Tecnologias que  uso no meu dia a dia
+### Technologies I use in my daily life
 
 <div style="dysplay: inline_block"><br/>
 <img aligm="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>

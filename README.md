@@ -23,8 +23,7 @@
 <img aligm="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-Apaixonado por tecnologia em constante aprendizado.
-
-Contatos:
-Telefone: (24)9 8826-9179 <br>
+Tech-passionate and a lifelong learner.
+Contacts:
+Telephone: (24)9 8826-9179 <br>
 Email: rafaelmartinsmachado25@gmail.com
